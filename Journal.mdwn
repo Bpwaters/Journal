@@ -1,0 +1,75 @@
+# Journal
+
+## Week 1
+### Day 1 (01.06.2020)
+#HTML   
+  * Designer notes  <!-- xxxx-->
+  * Paragraphs <p>
+  * Images: <img src=#"https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+  * unordered lists  <!-- eg : (line 1) <ul>  (line 2) <li>cat nip</li> --> and ordered lists <!-- eg : (line 1) <ol>  (line 2) <li>cat nip</li> -->
+  * Main body text <!-- main -->
+  * Checkboxes
+
+
+### Day 2
+#Markdown
+  Markdown basics, full course  
+  See markdown lesson tab
+
+### Day 3
+* Finished learning buttons, check boxes, values and basic html stuff, downloaded progress so far saved in Coding doc
+* Started CSS (Cascading style sheets), colours,
+
+### Day 4
+* continued CSS learning:
+* Borders (inclduing smoothing which can be percentage)
+* ID's in styles
+* fonts (and the order and how to copy down from google fonts)
+* Padding, margins and stuff
+#### BENJAMIN CODE READS TOP DOWN WITH THE LAST COMMAND TAKING PRECEDENT REMEMBER THIS IT FEELS IMPORTANT!!
+* ID declorations override class declarations regardless of where they are declared
+* colours, words, css variables and css variables with broswer fallbacks
+#### Basic CSS finished!!!
+#### Started Applied Visual Design
+* <strong> bold </strong>, <u> underlined</u>, <em> italics </em>, <s> Strikethrough </s>
+
+### Day 5
+Continued applied Visual Design
+* transforms (uppercase/lowercase etc)
+* styling of line spacing, text weighting etc
+* CSS treats each HTML element as its own box, which is usually referred to as the CSS Box Model; When the position of an element is set to relative, it allows you to specify how CSS should move it relative to its current position in the normal flow of the page. It pairs with the CSS offset properties of left or right, and top or bottom.
+* Text transform is a convenient way to make sure text on a webpage appears consistently, without having to change the text content of the actual HTML elements
+* to offset in the correct style part simply write: 
+right: XXXpx;
+* fixed is different to absolute, absolute keeps the item locked into place in relation with other objects whilsts fixed keeps it in the same position throughtout browser scrolling
+* Colours complimentary and opposites
+  
+
+## Week 2
+### Day 6 (08.06.2020)
+* Learnt what Github is (hello Github world)
+* Finished CSS on Freecodecamp and moved onto Applied Accessibility
+* Don't just use H1, H2, H4 because it looks nice, use the next size down and then use CSS to make it look good because it becomes harder to read
+*  note 
+<div> div - groups content
+<section> section - groups related content
+<article> article - groups independent, self-contained content
+</div> </section> </article>
+
+* Audio tags
+* Work on making forms accessible including fieldsets & legends.
+
+
+
+
+
+
+  
+# Stuff to sort out 
+* get github account running and stuff - do you friend people??
+* look into mysql as well as SQL 
+* https://laracasts.com/ (web development)
+  
+
+
+<!-- test to push to Github -->

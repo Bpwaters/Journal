@@ -1,0 +1,65 @@
+# Markdown Lessons
+
+
+#### Cuts:
+1. To make a phrase italic in Markdown, you can surround words with an underscore (_ ). For example, _this_ word would become italic.
+2. to make phrases bold in Markdown, you can surround words with two asterisks ( ** ). This is **bold**
+3. Headers are up to 6, 1 being biggest 6 being ######Smallest heading
+4. how to make links to other web sites on the world wide web.
+ -EG [Visit GitHub!](www.github.com).
+ 5. two types of images
+  a. The first image style is called an inline image link. To create an inline image link, enter an exclamation point ( ! ), wrap the alt text in brackets ( [ ] ), and then wrap the link in parenthesis ( ( ) ). (Alt text is a phrase or sentence that describes the image for the visually impaired.)  
+  b. You'll precede the Markdown with an exclamation point, then provide two brackets for the alt text, and then two more for the image tag, like this: ![The founding father][Father] At the bottom of your Markdown page, you'll define an image for the tag, like this: [Father]: http://octodex.github.com/images/founding-father.jpg.
+6. Block quotes are done by starting with ">"
+7.List by either unordered "* " or ordered "1. " you can indent with just a single space each time to change bullet point types
+
+A quick example text:
+1. Crack three eggs over a bowl.
+
+ Now, you're going to want to crack the eggs in such a way that you don't make a mess.
+
+ If you do make a mess, use a towel to clean it up!
+
+2. Pour a gallon of milk into the bowl.
+
+ Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
+3. Rub the salmon vigorously with butter.
+
+ By "vigorous," we mean a strictly vertical motion. Julia Child once quipped:
+
+ > Up and down and all around, that's how butter on salmon goes.
+
+4. Drop the salmon into the egg-milk bowl.
+
+ Here are some techniques on salmon-dropping:
+
+ Make sure no trout or children are present
+ Use both hands
+ **Always** have a towel nearby in case of messes
+
+Hard break is a double space like so: 
+
+hey!
+A soft break is where you use a double space (spaces indicated as full stops)
+IE. this is a line of poetry..
+This is the second line with a soft space in between
+
+All done learning!
+
+Some other links that might help:
+
+https://daringfireball.net/projects/markdown/
+
+https://spec.commonmark.org/dingus/
+
+https://johnmacfarlane.net/babelmark2/faq.html
+
+https://www.markdownguide.org
+
+https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/
+
+http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/
+
+https://en.wikipedia.org/wiki/Markdown#Example
+
